@@ -4,4 +4,4 @@ The dataset consists of 109309 images with 0 labeled objects belonging to 0 clas
 
 Here are the visualized examples for the classes:
 
-[Dataset classes](https://github.com/dataset-ninja/zhang-lab-data-chest-xray/raw/main/visualizations/classes_preview.webm)
+[Dataset classes](https://github.com/dataset-ninja/zhang-lab-data-oct/raw/main/visualizations/classes_preview.webm)

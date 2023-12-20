@@ -39,7 +39,7 @@ HOMEPAGE_URL: str = "https://data.mendeley.com/datasets/rscbjbr9sj/3"
 PREVIEW_IMAGE_ID: int = 11826992
 # This should be filled AFTER uploading images to instance, just ID of any image.
 
-GITHUB_URL: str = "https://github.com/dataset-ninja/zhang-lab-data-chest-xray"
+GITHUB_URL: str = "https://github.com/dataset-ninja/zhang-lab-data-oct"
 # URL to GitHub repo on dataset ninja (e.g. "https://github.com/dataset-ninja/some-dataset")
 
 ##################################
