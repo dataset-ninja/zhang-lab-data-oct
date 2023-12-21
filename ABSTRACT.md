@@ -1,4 +1,4 @@
-The **Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images** encountered challenges related to reliability and interpretability in implementing clinical-decision support algorithms for medical imaging. They embarked on developing a diagnostic tool utilizing a deep-learning framework specifically designed for screening patients with common treatable blinding retinal diseases. The final OCT dataset contains 108,312 images.
+The **Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images** encountered challenges related to reliability and interpretability in implementing clinical-decision support algorithms for medical imaging. They embarked on developing a diagnostic tool utilizing a deep-learning framework specifically designed for screening patients with common treatable blinding retinal diseases. The final OCT dataset contains 109,309 images.
 
 ## Spectral-Domain OCT Imaging
 
