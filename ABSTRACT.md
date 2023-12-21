@@ -1,5 +1,10 @@
 The **Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images** encountered challenges related to reliability and interpretability in implementing clinical-decision support algorithms for medical imaging. They embarked on developing a diagnostic tool utilizing a deep-learning framework specifically designed for screening patients with common treatable blinding retinal diseases. The final OCT dataset contains 109,309 images.
 
+The full dataset consists of the following parts:
+
+- **ZhangLabData: OCT** (current)
+- **ZhangLabData: Chest X-Ray** ([available on DatasetNinja](https://datasetninja.com/zhang-lab-data-chest-xray))
+
 ## Spectral-Domain OCT Imaging
 
 The primary application was in the diagnosis of retinal OCT images. Spectral-domain OCT captures high-resolution optical cross sections of the retina, assembling them into three-dimensional-volume images. It has become a widely performed medical imaging procedure, particularly in diagnosing age-related macular degeneration (***DRUSEN***,  choroidal neovascularization ***CNV***) and diabetic macular edema (***DME***).
