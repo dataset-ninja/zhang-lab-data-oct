@@ -1,6 +1,6 @@
 Dataset **ZhangLabData: OCT** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/V/b/kP/0zpmG5RvDeRev29gmJZbhfXYlTaFpfwE96DzHxru8YEnBosW8vQC6TlMnLov9QDlDGZT6wUNWXPi4SYNCtaJqCczChEpxqC9EJKGysvuKphFpGX1wCCSVxldOSnm.tar)
+ [Download](https://www.dropbox.com/scl/fi/djtbrp43com41v2suygny/zhanglabdata-oct-DatasetNinja.tar?rlkey=1zoguzq46t7vs8y7fziy0txix&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
