@@ -17,7 +17,7 @@ PROJECT_NAME: str = "ZhangLabData: OCT"
 PROJECT_NAME_FULL: str = (
     "Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images"
 )
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##

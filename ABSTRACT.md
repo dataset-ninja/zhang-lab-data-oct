@@ -2,7 +2,7 @@ The **Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ra
 
 ## Spectral-Domain OCT Imaging
 
-The primary application was in the diagnosis of retinal OCT images. Spectral-domain OCT captures high-resolution optical cross sections of the retina, assembling them into three-dimensional-volume images. It has become a widely performed medical imaging procedure, particularly in diagnosing age-related macular degeneration (AMD) and diabetic macular edema.
+The primary application was in the diagnosis of retinal OCT images. Spectral-domain OCT captures high-resolution optical cross sections of the retina, assembling them into three-dimensional-volume images. It has become a widely performed medical imaging procedure, particularly in diagnosing age-related macular degeneration (***DRUSEN***,  choroidal neovascularization ***CNV***) and diabetic macular edema (***DME***).
 
 OCT imaging has become a standard of care in guiding the diagnosis and treatment of leading causes of blindness, including AMD and diabetic macular edema. The prevalence of these diseases is significant, with millions affected, and the utilization of anti-vascular endothelial growth factor (anti-VEGF) medications has revolutionized treatment.
 
